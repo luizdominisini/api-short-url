@@ -3,6 +3,9 @@
 
 ## Tecnologias Utilizadas
 <ul>
-  <li>Node.js</li>
-  <li></li>
+  <li>node.js</li>
+  <li>express</li>
+  <li>mongoose</li>
+  <li>nodemon</li>
+  <li>dotenv</li>
 </ul>
